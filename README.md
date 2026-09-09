@@ -68,4 +68,5 @@ jupyter notebook notebooks/seasonal_agriculture_analysis.ipynb
 ## Author
 
 Siddhi Santosh Jagtap — Army Institute of Technology, Pune
+
 VOIS AICTE Data Analytics Internship, Batch 2026-2027
